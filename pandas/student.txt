@@ -1,0 +1,7 @@
+name,age,sex
+Tom,8,M
+Mike,7,M
+Mary,8,F
+Jack,9,M
+Tim,7,M
+Jim,8,M
