@@ -1,6 +1,6 @@
 # pandas-tutorial
 
-![Alt text](https://github.com/whyAndBetter/pandas-tutorial/blob/main/pandas/pd_01.png)
+![Alt text](https://github.com/chenxingphh/pandas-tutorial/blob/main/pandas/pd_01.png)
 
     Pandas是一个用于数据处理和数据分析的Python三方库。
     1、Pandas可以从各种文件(txt,csv,excel,json...)中导入数据
