@@ -8,7 +8,7 @@ pandas基础教程
     2、对数据进行运算操作(选择,拼接,统计,缺失值处理...)
     3、Pandas最主要的数据结构为Series(一维数据)和DataFrame(二维数据)
     
-* pandas_02_dataframe & series
+* [pandas_02_dataframe & series](https://github.com/chenxingphh/pandas-tutorial/blob/main/pandas/pandas_02_dataframe%20%26%20series.ipynb)
   - DataFrame & Series说明
   - DataFrame初始化
      - 通过dict初始化
