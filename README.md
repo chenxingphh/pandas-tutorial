@@ -16,7 +16,7 @@ pandas基础教程
   - DataFrame保存
      - 保存为指定文件（excel,csv,txt,json）
  
- * pandas_03_常用基础方法
+ * [pandas_03_常用基础方法](https://github.com/chenxingphh/pandas-tutorial/blob/main/pandas/pandas_03_%E5%B8%B8%E7%94%A8%E5%9F%BA%E7%A1%80%E6%96%B9%E6%B3%95.ipynb)
    - 查看数据: df.head(),df.tail()
    - 数据大小: df.shape
    - 字段的基础统信息: df.describe()
@@ -30,7 +30,7 @@ pandas基础教程
    - 行列处理函数: df.apply 
    - 类别编码（将类别列映射为one-hot）
 
- * pandas_04_数据选取&分组&修改
+ * [pandas_04_数据选取&分组&修改](https://github.com/chenxingphh/pandas-tutorial/blob/main/pandas/pandas_04_%E6%95%B0%E6%8D%AE%E9%80%89%E5%8F%96%26%E5%88%86%E7%BB%84%26%E4%BF%AE%E6%94%B9.ipynb)
    - 数据选取
      - 选取行&列数据
      - 布尔索引（按指定条件索引）
@@ -42,7 +42,7 @@ pandas基础教程
    - 数据修改
      - 修改选取数据(df.loc)
 
- * pandas_05_多DataFrame处理
+ * [pandas_05_多DataFrame处理](https://github.com/chenxingphh/pandas-tutorial/blob/main/pandas/pandas_05_%E5%A4%9ADataFrame%E5%A4%84%E7%90%86.ipynb)
    - 垂直拼接(pd.concat)
    - 水平拼接(pd.merge)
  
